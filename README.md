@@ -5,7 +5,7 @@ Feel free to decompile it!
 
 ### Now with (some) multilingual support!
 
-<center><img src="screenshots/1.jpg" width="33%" height="33%"/><img src="screenshots/1.jpg" width="33%" height="33%"/><img src="screenshots/1.jpg" width="33%" height="33%"/></center>
+<p align ="center"><img src="screenshots/1.jpg" width="33%" height="33%"/><img src="screenshots/2.jpg" width="33%" height="33%"/><img src="screenshots/3.jpg" width="33%" height="33%"/></p>
 
 __Version 2 updates:__ 
 
