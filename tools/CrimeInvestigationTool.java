@@ -71,10 +71,12 @@ public class CrimeInvestigationTool {   // GNU
                 } while (cursor.moveToNext());
             }
             /*
-            if (i == 0)
+            if (i == 0) {
                 Log.w(TAG, "getCallHistoryList: THE SMS KEYS ARE " + Arrays.toString(colNames));
-            else
-                Log.w(TAG, "getCallHistoryList: THE MMS KEYS ARE " + Arrays.toString(colNames));*/
+            } else {
+                Log.w(TAG, "getCallHistoryList: THE MMS KEYS ARE " + Arrays.toString(colNames));
+            }
+            */
 
             cursor.close();
         }
