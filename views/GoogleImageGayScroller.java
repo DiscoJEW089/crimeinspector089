@@ -49,7 +49,7 @@ public class GoogleImageGayScroller {   // GNU
             R.drawable.scene_2,
             R.drawable.lax,
             R.drawable.needy,
-            /*homosexual*/
+            /*homosexuals*/
             R.drawable.scene_3,
             R.drawable.free_lunch,
             R.drawable.primetime,
