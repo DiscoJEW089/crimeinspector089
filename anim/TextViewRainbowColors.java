@@ -6,7 +6,7 @@ import android.widget.TextView;
 
 public class TextViewRainbowColors {
     static final int[] colors = {
-            // Color.BLACK,
+            Color.BLACK,
             Color.GREEN,
             Color.MAGENTA,
             Color.YELLOW,
