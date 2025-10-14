@@ -3,7 +3,7 @@ An open-sourced Android application that details all SMS and call logs.  100% SA
 
 Feel free to decompile it!
 
-www.crimeinspector089.com 
+https://www.crimeinspector089.com
 
 hosted by GoDaddy.com __(not involved)__.
 
