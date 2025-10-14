@@ -10,6 +10,7 @@ Feel free to decompile it!
 __Version 3 updates:__ 
 
 * Added new library for enhanced UX
+* Brand new scores for that family-friendly screenshot!
   
 __Version 2 updates:__ 
 
