@@ -3,14 +3,18 @@ An open-sourced Android application that details all SMS and call logs.  100% SA
 
 Feel free to decompile it!
 
+www.crimeinspector089.com 
+
+hosted by GoDaddy.com __(not involved)__.
+
 ### Now with (some) multilingual support!
 
 <p align ="center"><img src="screenshots/1.jpg" width="33%" height="33%"/><img src="screenshots/2.jpg" width="33%" height="33%"/><img src="screenshots/3.jpg" width="33%" height="33%"/></p>
 
 __Version 3 updates:__ 
 
-* Added new library for enhanced UX
-* Brand new scores for that family-friendly screenshot!
+* Added library for enhanced UX support
+* Brand new scoreboard!
   
 __Version 2 updates:__ 
 
