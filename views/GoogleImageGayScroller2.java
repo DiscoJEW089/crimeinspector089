@@ -7,7 +7,7 @@ import com.investigator089.maxprisonevidencegooglecrime.R;
 
 public class GoogleImageGayScroller2 {   // GNU
     // Any adjustment must be bespoken
-    // Refer to (Literature) --- Trifold
+    // Refer to (text)
     Handler mHandler = new Handler();
     ImageView mImageView;
     int[] mResIDs;
