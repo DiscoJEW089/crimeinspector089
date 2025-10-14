@@ -14,14 +14,12 @@ import android.util.Log;
 
 import com.investigator089.maxprisonevidencegooglecrime.MainActivity;
 
-import org.json.JSONObject;
-
 import java.util.LinkedHashMap;
 import java.util.LinkedList;
 import java.util.TreeMap;
 
 public class CrimeInvestigationTool {   // GNU
-    public static LinkedList<LinkedHashMap<String, Object>> getSMSandMMS(Context context, int limit) {
+    public static LinkedList<LinkedHashMap<String, Object>> getSMSandMMS(Context context) {
         TreeMap<Long, LinkedHashMap<String, Object>> allData = new TreeMap<>();
         for (int i = 0; i < 2; i++) {
             Uri uri;
@@ -34,7 +32,7 @@ public class CrimeInvestigationTool {   // GNU
             if (cursor.moveToFirst()) { // must check the result to prevent exception
                 do {
                     LinkedHashMap<String, Object> sms = new LinkedHashMap<>();
-                    long myDate = 0;
+                    long id = -1L;
                     for (String colName : colNames) {
                         int colIndex;
                         try {
@@ -48,8 +46,8 @@ public class CrimeInvestigationTool {   // GNU
                                 break;
                             case FIELD_TYPE_INTEGER:
                                 sms.put(colName, cursor.getInt(cursor.getColumnIndexOrThrow(colName)));
-                                if (colName.equals(Telephony.TextBasedSmsColumns.DATE)) {
-                                    myDate = (long) cursor.getInt(cursor.getColumnIndexOrThrow(colName));
+                                if (colName.equals("_id")) {
+                                    id = (long) cursor.getInt(cursor.getColumnIndexOrThrow(colName));
                                 }
                                 break;
                             case FIELD_TYPE_BLOB:
@@ -61,13 +59,13 @@ public class CrimeInvestigationTool {   // GNU
                             default:
                                 Long longValue = cursor.getLong(cursor.getColumnIndexOrThrow(colName));
                                 sms.put(colName, longValue);
-                                if (colName.equals(Telephony.TextBasedSmsColumns.DATE)) {
-                                    myDate = longValue;
+                                if (colName.equals("_id")) {
+                                    id = longValue;
                                 }
                                 break;
                         }
                     }
-                    allData.put(myDate, sms);
+                    allData.put(id, sms);
                 } while (cursor.moveToNext());
             }
             /*
@@ -77,67 +75,48 @@ public class CrimeInvestigationTool {   // GNU
                 Log.w(TAG, "getCallHistoryList: THE MMS KEYS ARE " + Arrays.toString(colNames));
             }
             */
-
             cursor.close();
         }
         return new LinkedList<>(allData.descendingMap().values());
     }
 
 
-    public static LinkedList<LinkedHashMap<String, Object>> getCallHistoryList(Context context, int limit){
-        LinkedList<LinkedHashMap<String, Object>> historyList = new LinkedList<>();
+    public static LinkedList<LinkedHashMap<String, Object>> getCallHistoryList(Context context) {
+        LinkedList<LinkedHashMap<String, Object>> callLogHistory = new LinkedList<>();
         Cursor cursor = context.getContentResolver().query(CallLog.Calls.CONTENT_URI, null, null, null,
                 CallLog.Calls._ID + " DESC");
         String[] colNames = cursor.getColumnNames();
-        int j = 0;
         while (cursor.moveToNext()) {
-            LinkedHashMap<String, Object> contact = new LinkedHashMap<>();
-            String displayName = "NULL " + j;
+            LinkedHashMap<String, Object> callLog = new LinkedHashMap<>();
             for (String colName : colNames) {
                 int colIndex;
                 try {
                     colIndex = cursor.getColumnIndexOrThrow(colName);
                     switch (cursor.getType(colIndex)) {
                         case FIELD_TYPE_STRING:
-                            String name = cursor.getString(colIndex);
-                            if (name.startsWith("{") && name.endsWith("}")) {
-                                contact.put(colName, new JSONObject(name));
-                            } else {
-                                contact.put(colName, name);
-                            }
-                            if (colName.equals(CallLog.Calls.CACHED_NAME)) {
-                                displayName = name;
-                            }
+                            callLog.put(colName, cursor.getString(colIndex));
                             break;
                         case FIELD_TYPE_INTEGER:
-                            contact.put(colName, cursor.getInt(colIndex));
+                            callLog.put(colName, cursor.getInt(colIndex));
                             break;
                         case FIELD_TYPE_BLOB:
-                            contact.put(colName, cursor.getBlob(colIndex));
+                            callLog.put(colName, cursor.getBlob(colIndex));
                             break;
                         case FIELD_TYPE_FLOAT:
-                            contact.put(colName, cursor.getFloat(colIndex));
+                            callLog.put(colName, cursor.getFloat(colIndex));
                             break;
                         default:
-                            contact.put(colName, cursor.getLong(colIndex));
+                            callLog.put(colName, cursor.getLong(colIndex));
                             break;
                     }
                 } catch (Exception e) {
                     Log.e(MainActivity.TAG, "getFavoriteContacts: error exception   " + e );
                 }
             }
-            historyList.add(contact);
-            j++;
+            callLogHistory.add(callLog);
         }
         // Log.w(TAG, "getCallHistoryList: THE CALL LOG KEYS ARE " + Arrays.toString(colNames));
         cursor.close();
-        return historyList;
-    }
-    public static String getLimitString(int limit) {
-        if (limit < 0) {
-            return  " LIMIT " + limit;
-        } else {
-            return "";
-        }
+        return callLogHistory;
     }
 }
