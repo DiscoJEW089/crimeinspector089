@@ -17,8 +17,10 @@
 >  According to Google Play Ticket '**3-9316000040910'**, crimeinspector089 is **'resolved'** without our publishing, meaning **Android OS will permanently have a cloud based dialer only** in the foreseeable future.  This means we will continue to make calls from websites.
 
 > **🤸🏽`FUN FACT!`**
-> A cloud based dialer, unencrypted, is illegal and unfair.
+> A cloud based dialer, unencrypted, is illegal and unfair!
 
+> **⚠️`ENERGY EFFICIENCY WARNING!`**
+> Many companies like EA, Google, GIPHY, etc., do not cache data for profit.  Instead, they rely on the constant burning of fossil fuels to provide very large, redundant, often useless data!
 ---
 Feel free to decompile it!
 
@@ -30,6 +32,9 @@ hosted by GoDaddy.com __(not involved)__.
 
 <p align ="center"><img src="screenshots/1.jpg" width="33%" height="33%"/><img src="screenshots/2.jpg" width="33%" height="33%"/><img src="screenshots/3.jpg" width="33%" height="33%"/></p>
 
+__COMING SOON__
+
+*
 __Version 3 updates:__ 
 
 * Added library for enhanced UX support
