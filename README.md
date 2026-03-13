@@ -1,4 +1,3 @@
-
 # crimeinspector089
 
 > **💡`Did you know?`**
@@ -9,9 +8,6 @@
 
 > **💡`Did you know?`**
 > All Google products are security risks in the future, while some are immediate?
-
-> **📢`Industry Public Service Announcement`**
-> The only working MMS solution is provided by the guys at https://github.com/klinker41/android-smsmms and it no longer works due to a network error 4 (around 11/25/2026 it stopped working).  Please revert back to the older versions on your networks.
 
 > **🤸🏽`FUN FACT!`**
 >  According to Google Play Ticket '**3-9316000040910'**, crimeinspector089 is **'resolved'** without our publishing, meaning **Android OS will permanently have a cloud based dialer only** in the foreseeable future.  This means we will continue to make calls from websites.
@@ -32,9 +28,6 @@ hosted by GoDaddy.com __(not involved)__.
 
 <p align ="center"><img src="screenshots/1.jpg" width="33%" height="33%"/><img src="screenshots/2.jpg" width="33%" height="33%"/><img src="screenshots/3.jpg" width="33%" height="33%"/></p>
 
-__COMING SOON__
-
-*
 __Version 3 updates:__ 
 
 * Added library for enhanced UX support
