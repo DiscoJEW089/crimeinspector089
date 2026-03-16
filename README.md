@@ -42,9 +42,9 @@ Many enjoy what we do: **'code' building**, **marksmanship**, etc. That makes ou
 
 We also know the **DHS** is signaling things. We're acting cyber security experts for our country **(USA 🇺🇸)** **[on our behalf]**, and things take time to get moving. **JIMMY CARTER IS THE WORST PRESIDENT IN AMERICAN HISTORY!** There is no amount of money the US government can offer us over the positions of our own respective companies.
 
-<h3>**IT'S ETIQUETTE TO NOT CLOSE THE FUCKING TICKET!**</h3>
-
 Ten more ticket tries before a github update, ten more then we publish **'runOS'**. That's twenty tickets! **We're asking that you, Google employee, call a board member or an upper manager so this GITHUB CAN BE REMOVED!**
+
+<h3>**IT'S ETIQUETTE TO NOT CLOSE THE FUCKING TICKET!**</h3>
 
 ---
 
