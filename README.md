@@ -36,9 +36,9 @@ Many enjoy what we do: **'code' building**, **marksmanship**, etc. That makes ou
 
 **runOS** will be a video gaming platform **[📢 For our fans #1! 💯]** and will be compatible on processors running **Java**. It's fair.
 
-**BOARD**, offer your employees incentives like a gift card for finally being productive! Tell them that's their job!
+**BOARD**, offer your employees incentives like a gift card for answering our emails. Tell them that's their job!
 
-<h3>We will publish 'runOS' with ShitListAPI and a gaming platform if you keep BLOWING US OFF!<br>**It is fair!**</h3>
+<h3>We will publish 'runOS'/gaming platform with ShitListAPI (unconnected) if you keep BLOWING US OFF!<br>**It is fair!**</h3>
 
 We also know the **DHS** is signaling things. We're acting cyber security experts for our country **(USA 🇺🇸)** **[on our behalf]**, and things take time to get moving. **JIMMY CARTER IS THE WORST PRESIDENT IN AMERICAN HISTORY!** There is no amount of money the US government can offer us over the positions of our own respective companies.
 
