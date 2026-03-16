@@ -44,8 +44,6 @@ We also know the **DHS** is signaling things. We're acting cyber security expert
 
 Ten more ticket tries before a github update, ten more then we publish **'runOS'**. That's twenty tickets! **We're asking that you, Google employee, call a board member or an upper manager so this GITHUB CAN BE REMOVED!**
 
-<h3>**IT'S ETIQUETTE TO NOT CLOSE THE FUCKING TICKET!**</h3>
-
 ---
 
 <h3>**STOP RESURRECTING MICROWAVE TELECOM SYSTEMS AND MANUFACTURE 'OLD' 3G ANTENNAS! HOW'S THAT UNCLEAR!**</h3>
