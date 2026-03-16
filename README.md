@@ -38,7 +38,8 @@ Many enjoy what we do: **'code' building**, **marksmanship**, etc. That makes ou
 
 **BOARD**, offer your employees incentives like a gift card for answering our emails. Tell them that's their job!
 
-<h3>We will publish 'runOS'/gaming platform with ShitListAPI (unconnected) if you keep BLOWING US OFF!<br>**It is fair!**</h3>
+<h3>We will publish 'runOS'/gaming platform with ShitListAPI (unconnected) if you keep BLOWING US OFF!</h3>
+<h3>**It is fair!**</h3>
 
 We're acting cyber security experts for our country **(USA 🇺🇸)** **[on our behalf]**, and things take time to get moving. **JIMMY CARTER IS THE WORST PRESIDENT IN AMERICAN HISTORY!** There is no amount of money the US government can offer us over the positions of our own respective companies.
 
