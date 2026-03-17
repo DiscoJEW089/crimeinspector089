@@ -1,14 +1,4 @@
-<b>
-@Wendy <br>
-@KFC<br>
-@PizzaHut<br>
-@McDonalds<br>
-@Chipotle
-<br>
-<br>
-</b>
-
--_SWAK
+Thank you **'Ava Cado'** **@Chipotle**! ;
 
 ---
 
