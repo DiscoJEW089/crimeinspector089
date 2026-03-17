@@ -1,3 +1,7 @@
+**We like the President and support him 🇺🇸!**
+
+---
+
 **🌏 Hello World,**
 
 We're computer enthusiasts from across the country! We're
