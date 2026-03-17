@@ -1,5 +1,7 @@
 **We like the President and support him 🇺🇸!**
 
+design, Design, **DESIGN**!
+
 ---
 
 **🌏 Hello World,**
@@ -75,8 +77,6 @@ Version 3 updates:
 
 * Brand new scoreboard!
 
- 
-
 Version 2 updates: 
 
 * Volume bug fix and improved UX
@@ -84,4 +84,3 @@ Version 2 updates:
 * Added open-sourced libraries --- +1 FREE!
 
 * Advertise with us!
-
