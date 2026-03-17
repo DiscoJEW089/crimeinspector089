@@ -2,14 +2,10 @@
 @Wendy <br>
 @KFC<br>
 @PizzaHut<br>
-@McDonalds<br><br></b>
-
-**WHERE THE FUCK IS OUR INFORMATION WHEN WE APPLY FOR JOBS ONLINE?!**
-
-**WHY THE FUCK DO WE HAVE TO FILL IT IN TWICE?!**
-
-**FOR ALL WORKERS --- APPLY IN PERSON!**
-
+@McDonalds
+<br>
+<br>
+</b>
 -_SWAK
 
 ---
