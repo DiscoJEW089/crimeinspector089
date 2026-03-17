@@ -2,7 +2,7 @@
 @Wendy <br>
 @KFC<br>
 @PizzaHut<br>
-@McDonalds
+@McDonalds<br>
 @Chipotle
 <br>
 <br>
