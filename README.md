@@ -1,7 +1,4 @@
 **We like the President and support him 🇺🇸!**
-
-design, Design, **DESIGN**!
-
 ---
 
 **🌏 Hello World,**
