@@ -1,7 +1,3 @@
-Thank you **'Ava Cado'** **@Chipotle**! ;
-
----
-
 **🌏 Hello World,**
 
 We're computer enthusiasts from across the country! We're
