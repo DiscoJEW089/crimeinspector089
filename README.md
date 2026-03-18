@@ -1,4 +1,6 @@
-**We like the President and support him 🇺🇸!**
+**BOARD, WHY ARE YOU NOT PERSONALLY ANSWERING MY EMAILS, AS REQUESTED?**
+
+-IT_AwRyER
 
 ---
 
@@ -6,46 +8,14 @@
 
 We're computer enthusiasts from across the country! We're
 
-<b>samurai swaK\
-IT_AwRyER\
+<b>IT_AwRyER\
 pilotJack\
 CyberPunK_MAIN\
-dev_Ninj4OG\
-mufuguru089\
-JOEunix\
-JackTHrEadRippeR\
-Tux_C_dough</b>
+mufuguru089</b>
 
 ...
 
 **(cyber interns)**
-
-None of us want to be famous. Why? **We're married with kids!** We're exhausted, embarrassed, tired, and hungry and our projects keep growing. **pilotJack** is our main editor who enjoys golf. We've all met in real life with the assistance of the internet --- **DO NOT DUPLICATE**! 
-
-Our actual project ... is a high-profile app. There've been countless developers who've contributed to the making of it who no longer work for us. The ellipses (...) in the list represents them and they definitely, **DEFINITELY** get a mention. We'll disclose their information afterwards.
-
-Many enjoy what we do: **'code' building**, **marksmanship**, etc. That makes our situation a very bad one. And that's not our brand **(+1 GUARANTEE)**!
-
-**"All we are asking is that [Google employees] call your CFO!"**
-
-**Once we correspond, we will delete this account! That's CLEAR!**
-
----
-
-**'runOS'** is for sale **@google**. We don't want to build it but it's the only way we earn a living in tech. It's **as is** and it's not that bad. Tell your tech support employees, **BOARD**, to offer a deal for **runOS**.
-
-<h3>****Why purchase now?****</h3>
-
-**runOS** will be a video gaming platform **[📢 For our fans #1! 💯]** and will be compatible on processors running **Java**. It's fair.
-
-**BOARD**, offer your employees incentives like a gift card for answering our emails. Tell them that's their job!
-
-<h3>We will publish 'runOS'/gaming platform with ShitListAPI (unconnected) if you keep BLOWING US OFF!</h3>
-<h3>**It is fair!**</h3>
-
-We're acting cyber security experts for our country **(USA 🇺🇸)** **[on our behalf]**, and things take time to get moving. **JIMMY CARTER IS THE WORST PRESIDENT IN AMERICAN HISTORY!** There is no amount of money the US government can offer us over the positions of our own respective companies.
-
-Ten more ticket tries before a github update, ten more then we publish **'runOS'**. That's twenty tickets! **We're asking that you, Google employee, call a board member or an upper manager so this GITHUB CAN BE REMOVED!**
 
 ---
 
